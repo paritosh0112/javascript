@@ -18,5 +18,6 @@
 //     console.log(city);
 // }
 
+//array methods
 
 
