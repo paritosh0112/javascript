@@ -19,5 +19,9 @@
 // }
 
 //array methods
-
+let arr=[1,2,3,4,5];
+console.log(arr.push(6));    //push used for add any item at the end of the array
+console.log(arr);
+console.log(arr.pop()); // pop used for deleting last value from array
+console.log(arr);
 
