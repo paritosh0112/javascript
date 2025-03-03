@@ -1,2 +1,16 @@
-console.log(numbers.splice(3,1));
-// console.log(numbers);
+function countVowels(str){
+//     let count=0;
+//       for (const char of str){
+//         if
+//         (char=="a" ||
+//          char=="e" ||
+//          char=="i" ||
+//          char=="o" ||
+//          char=="u"
+//         ){
+//             count++;
+//         }
+//       }
+//       console.log(count);
+// }
+// countVowels("paritosh");
