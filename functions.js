@@ -20,6 +20,9 @@
 //     s=x+y;
 //     return s;
 // }
+// const ans = sum(6,7);
+// console.log("ans = ",ans);
+
 // let val=sum (100,7);
 // console.log(val);
 //function expression
@@ -32,6 +35,6 @@
 //     console.log(a+b);
 // }
 // arrowsum(3,6);
-()=>{
-    console.log("hello");
-}
+// ()=>{
+//     console.log("hello");
+// }
